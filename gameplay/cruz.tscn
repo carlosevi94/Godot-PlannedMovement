@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cj45f87st2inc"]
+
+[ext_resource type="Texture2D" uid="uid://b0dde0jdyoeh5" path="res://Assets/cruz.png" id="1_hq0yb"]
+
+[node name="Cruz" type="Sprite2D"]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_hq0yb")
